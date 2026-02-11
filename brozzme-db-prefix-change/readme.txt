@@ -3,7 +3,7 @@ Contributors: Benoti, benoitgeek
 Tags: database, prefix, security, config, tools, dump, export, protection, db-prefix, _wp
 Donate link: https://brozzme.com/
 Requires at least: 4.7
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 1.3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -78,6 +78,8 @@ Only use lower-case characters to solve this.
 2. french tool control screenshot-2.png.
 
 == Changelog ==
+= 1.3.5 =
+bugfixes and tested up version
 = 1.3.2 =
 bugfixes
 = 1.3.1 =
